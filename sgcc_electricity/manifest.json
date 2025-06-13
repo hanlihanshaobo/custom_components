@@ -1,0 +1,9 @@
+{
+  "domain": "sgcc_electricity",
+  "name": "SGCC Electricity",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourname/sgcc_electricity",
+  "dependencies": [],
+  "requirements": [],
+  "codeowners": ["@yourgithub"]
+}
